@@ -6,7 +6,7 @@ This is a monument that commemorates my book's release: ["The world of obfuscate
 
 ![photo 2](img/mquine-photo-2-400x300.jpg)
 
-It has a spiral releaf of a long one-liner Ruby program that generates a 3D model of this column itself.  Save it as a file `mquine.rb` and execute:
+It has a spiral relief of a long one-liner Ruby program that generates a 3D model of this column itself.  Save it as a file `mquine.rb` and execute:
 
     $ ruby mquine.rb > mquine.obj
 
